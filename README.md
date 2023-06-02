@@ -1,4 +1,4 @@
-# Hospital-Facility-Lapyout-using-Quadratic-Assignment-Problem
+# Hospital-Facility-Layout-using-Quadratic-Assignment-Problem
 This is a python code for Hospital Facility layout using Quadratic Assignment Peoblem.
 This is a part of my DSA project.
 The python code calculates shortest distance between 2 facilities.
